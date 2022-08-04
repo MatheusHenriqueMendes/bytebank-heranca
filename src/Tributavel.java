@@ -1,6 +1,5 @@
-public interface Tributavel{
+
+public interface Tributavel {
 
     double getValorImposto();
-
-
 }
